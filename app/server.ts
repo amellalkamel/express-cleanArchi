@@ -1,5 +1,5 @@
-console.log('node ------------>')
-import express from 'express';
+
+import express, { Router } from "express";
 
 let app = express();
 let PORT = 4040;
